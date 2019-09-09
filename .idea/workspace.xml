@@ -33,6 +33,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -50,8 +51,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.TimedAssertionsSpec.A worker actor should reply to a test probe in a timely manner">
-    <configuration name="TestProbeSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+  <component name="RunManager" selected="ScalaTest.InterceptingLogsSpec">
+    <configuration name="InterceptingLogsSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -63,7 +64,7 @@
       <option name="searchTest" value="Across module dependencies" />
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
-      <option name="testClassPath" value="part3scala.TestProbeSpec" />
+      <option name="testClassPath" value="part3scala.InterceptingLogsSpec" />
       <option name="testPackagePath" value="" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
@@ -72,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestProbeSpec.A master actor should aggregate data correctly" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+    <configuration name="InterceptingLogsSpec.A checkout flow should freak out if the payment is denied" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
       <option name="allowRunningInParallel" value="false" />
       <option name="testKind" value="Class" />
@@ -84,7 +85,8 @@
       <option name="searchTest" value="Across module dependencies" />
       <option name="showProgressMessages" value="true" />
       <option name="testArgs" value="" />
-      <option name="testClassPath" value="part3scala.TestProbeSpec" />
+      <option name="testClassPath" value="part3scala.InterceptingLogsSpec" />
+      <option name="testName" value="A checkout flow should freak out if the payment is denied" />
       <option name="testPackagePath" value="" />
       <option name="useSbt" value="false" />
       <option name="useUiWithSbt" value="false" />
@@ -158,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.InterceptingLogsSpec" />
+        <item itemvalue="ScalaTest.InterceptingLogsSpec.A checkout flow should freak out if the payment is denied" />
         <item itemvalue="ScalaTest.TimedAssertionsSpec.A worker actor should reply to a test probe in a timely manner" />
         <item itemvalue="ScalaTest.TimedAssertionsSpec.A worker actor should reply with the meaning of life in a timely manner" />
         <item itemvalue="ScalaTest.TimedAssertionsSpec.A worker actor should reply with valid work at a reasonable cadence" />
-        <item itemvalue="ScalaTest.TestProbeSpec" />
-        <item itemvalue="ScalaTest.TestProbeSpec.A master actor should aggregate data correctly" />
       </list>
     </recent_temporary>
   </component>
