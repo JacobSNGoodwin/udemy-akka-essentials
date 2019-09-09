@@ -1,4 +1,4 @@
-package part3scala
+package part3testing
 
 import akka.actor.{Actor, ActorLogging, ActorSystem, Props}
 import akka.testkit.{EventFilter, ImplicitSender, TestKit}
