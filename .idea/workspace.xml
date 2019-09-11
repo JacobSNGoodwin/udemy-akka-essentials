@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e77d005-6c64-4a81-b969-e289c22ae837" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part6patterns/AskSpec.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/part6patterns/StashDemo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.conf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,79 +61,118 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mailboxes">
-    <configuration name="BackoffSupervisorPattern" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part4faultTolerance.BackoffSupervisorPattern" />
+  <component name="RunManager" selected="ScalaTest.AskSpec">
+    <configuration name="AskSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part4faultTolerance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.AskSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dispatchers" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part5infra.Dispatchers" />
+    <configuration name="AskSpec.A piped authenticator should fail to authenticate a non-registered user&#10;A piped authenticator should fail to authenticate if invalid password&#10;A piped authenticator should successfully authenticate a user" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5infra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.AskSpec" />
+      <option name="testName" value="A piped authenticator should fail to authenticate a non-registered user&#10;A piped authenticator should fail to authenticate if invalid password&#10;A piped authenticator should successfully authenticate a user" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mailboxes" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part5infra.Mailboxes" />
+    <configuration name="AskSpec.An authenticator should fail to authenticate a non-registered user" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5infra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.AskSpec" />
+      <option name="testName" value="An authenticator should fail to authenticate a non-registered user" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Routers" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part5infra.Routers" />
+    <configuration name="AskSpec.An authenticator should fail to authenticate a non-registered user&#10;An authenticator should fail to authenticate if invalid password" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5infra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.AskSpec" />
+      <option name="testName" value="An authenticator should fail to authenticate a non-registered user&#10;An authenticator should fail to authenticate if invalid password" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TimersSchedulers" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="part5infra.TimersSchedulers" />
+    <configuration name="AskSpec.An authenticator should successfully authenticate a user" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="part5infra.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.AskSpec" />
+      <option name="testName" value="An authenticator should successfully authenticate a user" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mailboxes" />
-        <item itemvalue="Application.Dispatchers" />
-        <item itemvalue="Application.Routers" />
-        <item itemvalue="Application.TimersSchedulers" />
-        <item itemvalue="Application.BackoffSupervisorPattern" />
+        <item itemvalue="ScalaTest.AskSpec" />
+        <item itemvalue="ScalaTest.AskSpec.A piped authenticator should fail to authenticate a non-registered user&#10;A piped authenticator should fail to authenticate if invalid password&#10;A piped authenticator should successfully authenticate a user" />
+        <item itemvalue="ScalaTest.AskSpec.An authenticator should successfully authenticate a user" />
+        <item itemvalue="ScalaTest.AskSpec.An authenticator should fail to authenticate a non-registered user&#10;An authenticator should fail to authenticate if invalid password" />
+        <item itemvalue="ScalaTest.AskSpec.An authenticator should fail to authenticate a non-registered user" />
       </list>
     </recent_temporary>
   </component>
