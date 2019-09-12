@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e77d005-6c64-4a81-b969-e289c22ae837" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/part6patterns/FSMSpec.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/part6patterns/FSMSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/part6patterns/FSMSpec.scala" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="ScalaTest.FSMSpec.A vending machine should error when not initialized&#10;A vending machine should report a product not available&#10;A vending machine should throw a timeout if I don't insert money&#10;A vending machine should handle the reception of partial money&#10;A vending machine should deliver the product if I insert all of the money&#10;A vending machine should give back change and request money for a new product">
+  <component name="RunManager" selected="ScalaTest.FSMSpec">
+    <configuration name="FSMSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="udemy-akka-essentials" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.FSMSpec" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FSMSpec.A vending FSM should error when not initialized&#10;A vending FSM should report a product not available&#10;A vending FSM should throw a timeout if I don't insert money&#10;A vending FSM should handle the reception of partial money&#10;A vending FSM should deliver the product if I insert all of the money&#10;A vending FSM should give back change and request money for a new product" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="udemy-akka-essentials" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="part6patterns.FSMSpec" />
+      <option name="testName" value="A vending FSM should error when not initialized&#10;A vending FSM should report a product not available&#10;A vending FSM should throw a timeout if I don't insert money&#10;A vending FSM should handle the reception of partial money&#10;A vending FSM should deliver the product if I insert all of the money&#10;A vending FSM should give back change and request money for a new product" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FSMSpec.A vending machine should deliver the product if I insert all of the money" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="udemy-akka-essentials" />
       <option name="allowRunningInParallel" value="false" />
@@ -124,55 +165,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FSMSpec.A vending machine should report a product not available" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="udemy-akka-essentials" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="part6patterns.FSMSpec" />
-      <option name="testName" value="A vending machine should report a product not available" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FSMSpec.A vending machine should throw a timeout if I don't insert money" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <module name="udemy-akka-essentials" />
-      <option name="allowRunningInParallel" value="false" />
-      <option name="testKind" value="Class" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="javaOptions" value="" />
-      <option name="jrePath" />
-      <option name="searchTest" value="Across module dependencies" />
-      <option name="showProgressMessages" value="true" />
-      <option name="testArgs" value="" />
-      <option name="testClassPath" value="part6patterns.FSMSpec" />
-      <option name="testName" value="A vending machine should throw a timeout if I don't insert money" />
-      <option name="useSbt" value="false" />
-      <option name="useUiWithSbt" value="false" />
-      <option name="workingDirectory" value="C:\Users\Jacob\code\scala\udemy-akka-essentials" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.FSMSpec" />
+        <item itemvalue="ScalaTest.FSMSpec.A vending FSM should error when not initialized&#10;A vending FSM should report a product not available&#10;A vending FSM should throw a timeout if I don't insert money&#10;A vending FSM should handle the reception of partial money&#10;A vending FSM should deliver the product if I insert all of the money&#10;A vending FSM should give back change and request money for a new product" />
         <item itemvalue="ScalaTest.FSMSpec.A vending machine should error when not initialized&#10;A vending machine should report a product not available&#10;A vending machine should throw a timeout if I don't insert money&#10;A vending machine should handle the reception of partial money&#10;A vending machine should deliver the product if I insert all of the money&#10;A vending machine should give back change and request money for a new product" />
         <item itemvalue="ScalaTest.FSMSpec.A vending machine should deliver the product if I insert all of the money" />
         <item itemvalue="ScalaTest.FSMSpec.A vending machine should handle the reception of partial money" />
-        <item itemvalue="ScalaTest.FSMSpec.A vending machine should throw a timeout if I don't insert money" />
-        <item itemvalue="ScalaTest.FSMSpec.A vending machine should report a product not available" />
       </list>
     </recent_temporary>
   </component>
